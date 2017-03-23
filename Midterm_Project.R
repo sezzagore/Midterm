@@ -1,6 +1,6 @@
 ## ----code=readLines(knitr::purl('Midterm_Project.Rmd', documentation = 1)), eval = FALSE, include=FALSE----
-## # the code in the description of the chunck automatically creates/saves a R script from this .Rmd
-## # for some reason, this seems to disallow naming further chuncks
+# the code in the description of the chunck automatically creates/saves a R script from this .Rmd
+# for some reason, this seems to disallow naming further chuncks
 
 ## ---- message=FALSE------------------------------------------------------
 knitr::opts_chunk$set(echo = TRUE, tidy = TRUE, cache = TRUE)

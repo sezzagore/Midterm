@@ -475,6 +475,12 @@ accid %>%
   labs(title = "Breakdown of Top 15 Body-Parts Harmed", x = "Body-Part Harmed in the Accident", y = "Number of Cases")
 ```
 
+
+* I acknowledge that I benefitted from the help of a tutor with whom I work regularly. He reviewed my code and offered some suggestions of improvement. I remain soley responsible of this work. 
+
+* I hope you found this as interesting as I did!
+
+
 # Appendix: Variable  Description 
 
 The following tables provide information about the variables that remain in the data set after cleaning. For further information, please refer to the original document such as [osha.txt](http://ire.org/media/uploads/files/datalibrary/samplefiles/OSHA%20Workplace%20Safety%20Data/OSHA.txt). 
